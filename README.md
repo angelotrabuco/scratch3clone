@@ -1,3 +1,2 @@
-# Scratch clone
-
-Second coursework for CS141.
+# Permanently Closed
+Moving into scratch2clone on january 20 2023
